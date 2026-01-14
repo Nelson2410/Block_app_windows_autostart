@@ -1,0 +1,28 @@
+# --- IDE & Éditeurs (VS Code, JetBrains, etc.) ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Système d'exploitation ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Fichiers temporaires & Logs ---
+*.log
+*.tmp
+*.bak
+*.old
+*.aux
+*.out
+*.toc
+*.gz
+*.zip
+*.tar.gz
+*.rar
+
+# Backups et exports
+*.reg
+startup_backups/
