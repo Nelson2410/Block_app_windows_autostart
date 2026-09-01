@@ -157,8 +157,7 @@ Ressources officielles Microsoft :
 
 ## 👤 Auteur
 
-**Nelson Bandos**  
-📧 Email : [nelson.bandos@proton.me](mailto:nelson.bandos@proton.me)  
+**Nelson Bandos**   
 🔗 GitHub : [@Nelson2410](https://github.com/Nelson2410)  
 📅 Date : Janvier 2026  
 📍 Localisation : Abidjan, Côte d'Ivoire.
